@@ -1,0 +1,45 @@
+/* Nav Bar */
+.container-fluid {
+    padding: 0 5%;
+}
+.navbar-brand {
+    font-family: 'Space Mono';
+    color: #fff;
+}
+.nav-link {
+    font-family: 'dosis';
+    color: #fff;
+}
+
+/* Blog */
+
+/* #blog-section {
+    background-color: lightgrey;
+} */
+
+h1{
+    font-family: 'Barlow Condensed';
+    /* font-weight: bold; */
+    font-size: 1.5rem;
+}
+
+p {
+    font-family: 'Arial';
+}
+
+.blog {
+    padding: 5% 10%;
+}
+
+
+/* Footer */
+
+.mc2022 {
+    color: #fff;
+    padding: 10px 0;
+
+    font-family: 'Space Mono';
+    font-size: 0.75rem;
+    text-align: center;
+
+}
